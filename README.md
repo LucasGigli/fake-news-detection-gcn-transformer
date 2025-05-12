@@ -37,9 +37,10 @@ Traditional models focus only on content. This model captures both:
 
 ##  Repository Contents
 
- `thesis.pdf` – Full MSc research document  
- `notebook.ipynb` – Code demo (in progress)  
- `summary.pdf` – One-page summary (optional)
+- `GCN&GCNTransformer.ipynb` – Main model architecture + training
+- `EDA_MLandDL.ipynb` – Exploratory analysis + traditional models
+- `GCN-Transformer_thesis.pdf` – Full MSc thesis
+- `requirements.txt` – Required Python packages
 
 ---
 

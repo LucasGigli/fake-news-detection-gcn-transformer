@@ -7,16 +7,16 @@
 
 ---
 
-## 🔍 Why This Project?
+## Why This Project would benefit?
 
 Fake news isn't just about the text — it's about <strong>how it spreads</strong>.  
 Traditional models focus only on content. This model captures both:
-- ✍️ Textual meaning (via BERT + Transformer)
-- 🕸️ Social structure (via GCN on user-tweet graphs)
+- Textual meaning (via BERT + Transformer)
+- Social structure (via GCN on user-tweet graphs)
 
 ---
 
-## 💡 Key Components
+## Key Components
 
 | Component        | Description |
 |------------------|-------------|
@@ -27,30 +27,30 @@ Traditional models focus only on content. This model captures both:
 
 ---
 
-## 🧪 Results
+## Results
 
-✅ **97% Recall on Fake Labels**  
-✅ **Outperforms** SVM, XGBoost, and standalone GCN  
-✅ Handles **imbalanced data** and misinformation propagation
-
----
-
-## 📁 Repository Contents
-
-📄 `thesis.pdf` – Full MSc research document  
-📓 `notebook.ipynb` – Code demo (in progress)  
-🧾 `summary.pdf` – One-page summary (optional)
+ **97% Recall on Fake Labels**  
+ **Outperforms** SVM, XGBoost, and standalone GCN  
+ Handles **imbalanced data** and misinformation propagation
 
 ---
 
-## 📚 Dataset
+##  Repository Contents
+
+ `thesis.pdf` – Full MSc research document  
+ `notebook.ipynb` – Code demo (in progress)  
+ `summary.pdf` – One-page summary (optional)
+
+---
+
+##  Dataset
 
 Uses the open-source **Twitter 15/16** datasets  
 Includes real/false labels, tweet content, and user interactions
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add Streamlit or Gradio demo
 - Integrate real-time tweet input and prediction

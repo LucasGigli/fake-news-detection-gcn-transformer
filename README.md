@@ -50,14 +50,6 @@ Includes real/false labels, tweet content, and user interactions
 
 ---
 
-##  Future Improvements
-
-- Add Streamlit or Gradio demo
-- Integrate real-time tweet input and prediction
-- Improve visualizations of graph structure
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10-blue" />
   <img src="https://img.shields.io/badge/BERT-transformer-green" />
